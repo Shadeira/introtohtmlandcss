@@ -15,14 +15,14 @@ Teacher Says: Now let’s take a look at the HTML of a finished webpage.
 Open up https://www.upperlinecode.com/ 
 Click on source code and show students the HTML of the webpage. The code can be found here: 
 
-<img src="images/upperlinecodesource.png" width="200" height="300"/>
+<img src="images/upperlinecodesource.png">
 
 Explain to students that this code makes up the entire website.
 
 Teacher Says: When it comes to creating the website you first want to make sure you know the layout and design(colors, text images and more) of the website. Here is an example of a webpage without any content: 
 
 Explain this image using the Upperline code website as an example. 
-<img src="images/websiteimage.png" width="200" height="300"/>
+<img src="images/websiteimage.png">
 
 
 Playtime 1 - 10 mins
@@ -51,7 +51,7 @@ Head- Surrounds important content that is invisible to the user, but is importan
 Title- Name of your webpage, will not appear on the screen 
 
 Body- Container for all of a page’s content. Comes after the <head> tag, within the overall <html> tag.
-<img src="images/html.png" width="200" height="300"/>
+<img src="images/html.png">
 
 Once students have open repl.it have student code along the with you as you type in the following image including a title. 
 
@@ -70,10 +70,10 @@ ADDING HEADERS AND LIST - 10 mins
 Everything that is added to the body of your website will be displayed. We will now add your first header title, image, paragraph, and list to your webpage. 
 
 Here is an example of a top-level heading tag will look: 
-<img src="images/h1tag.png" width="200" height="300"/>
+<img src="images/h1tag.png">
 
 Paragraphs make up a lot of the text on webpages. Here is how a paragraph tag could look:
-<img src="images/ptag.png" width="200" height="300"/>
+<img src="images/ptag.png">
 
 Playtime 2 - 5 mins
 
@@ -87,12 +87,12 @@ Add a second header level to the song title.
 
 Your webpage should look similar to this: 
 
-<img src="images/firsthtml.png" width="200" height="300"/>
+<img src="images/firsthtml.png" >
 
 
 Now let’s add an image. 
 Some tags, such as image tags don't have closing tags - these would appear like this:
-<img src="images/img.png" width="200" height="300"/>
+<img src="images/img.png"/>
 
 Adding list
 There are different types of list. You have an order and an unordered list. 
@@ -101,11 +101,11 @@ Teacher Says: What do you think is the difference between an order list and an u
 Exemplar Answer: Ordered list has numbers and unorder list is bullet points. 
 
 Example of ordered list:
-<img src="images/ol.png" width="200" height="300"/>
+<img src="images/ol.png">
 
 Example of unordered list:
 
-<img src="images/ul.png" width="200" height="300"/>
+<img src="images/ul.png" >
 
 
 All list should start with a list tag - Example:
@@ -119,7 +119,7 @@ Add an image of your favorite artist
 Add an unodered list of the the list you made up of the singer on to your web page. 
 
 Does your webpage look something like this? If so GREAT!
-<img src="images/beyoncehtml.png" width="200" height="300"/>
+<img src="images/beyoncehtml.png">
 
 
 INTRO TO CSS
@@ -128,7 +128,7 @@ CSS(cascading stylesheet) -  this is the style of your website. It gives your we
 
 Look at this example of a website with and without CSS:
 
-<img src="images/websutecssandhtml.png" width="200" height="300"/>
+<img src="images/websutecssandhtml.png">
 
 Let’s add a bit of CSS to your webpage.
  
@@ -141,12 +141,12 @@ For this section students will add colors, size and font to their webpage. Expla
 
 Adding color to your background: 
 
-<img src="images/backgroundcolor.png" width="200" height="300"/>
+<img src="images/backgroundcolor.png">
 
 Ask students: What do you think this CSS tag does? 
 Have students test out this code. 
 
-<img src="images/bodycss.png" width="200" height="300"/>
+<img src="images/bodycss.png">
 
 Exemplar Answer: Changes the color of all the text in your body. 
 
@@ -159,7 +159,7 @@ Add a color to your ordered list
 
 Link to finish webpage - https://repl.it/@Shadeira/DefenselessLegitimateStruct#index.html
 Take a look at your finished website!
-<img src="images/beyoncecss.png" width="200" height="300"/>
+<img src="images/beyoncecss.png">
 
 
 Playtime- 20mins
