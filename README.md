@@ -2,11 +2,11 @@
 
 
 Create a website of your favorite singer 
-Goal: Students will learn how to build their first web page using HTML and CSS. 
+## Goal: Students will learn how to build their first web page using HTML and CSS. 
 
-INTRO - 6 mins
+## INTRO - 6 mins
 
-What is HTML? 
+## What is HTML? 
 
 HTML is defined as HyperText Markup Language. An HTML web page is made up of code, which displays in a web browser to show us text, images, navigation menus, video, audio, and many other things.
 
@@ -25,9 +25,10 @@ Explain this image using the Upperline code website as an example.
 <img src="images/websiteimage.png">
 
 
-Playtime 1 - 10 mins
+## Playtime 1 - 10 mins
 
 Hand students a blank piece of paper. 
+
 Teacher Says: For this lesson, we will be creating a website for your favorite singer. 
 Name of Singer
 Name of a favorite song from the artist and add favorite lyrics from the song
@@ -41,7 +42,7 @@ List of:
 On the other side of the paper have students draw out a mockup of what they think their website will look like once they have listed all of their content. 
 
 
-HTML Web Page Structure - 10 mins
+## HTML Web Page Structure - 10 mins
 
 Direct students to https://repl.it
 Teacher Syas: We will now code out the structure of our HTML website. This will include the head, title, and body.
@@ -51,6 +52,7 @@ Head- Surrounds important content that is invisible to the user, but is importan
 Title- Name of your webpage, will not appear on the screen 
 
 Body- Container for all of a page’s content. Comes after the <head> tag, within the overall <html> tag.
+   
 <img src="images/html.png">
 
 Once students have open repl.it have student code along the with you as you type in the following image including a title. 
@@ -65,7 +67,7 @@ Everyone’s code should look like this:
       </body>
 </html>
 
-ADDING HEADERS AND LIST - 10 mins
+## ADDING HEADERS AND LIST - 10 mins
 
 Everything that is added to the body of your website will be displayed. We will now add your first header title, image, paragraph, and list to your webpage. 
 
@@ -75,13 +77,11 @@ Here is an example of a top-level heading tag will look:
 Paragraphs make up a lot of the text on webpages. Here is how a paragraph tag could look:
 <img src="images/ptag.png">
 
-Playtime 2 - 5 mins
-
+## Playtime 2 - 5 mins
 Add your header title “Singer’s Name”
 In the paragraph tag add favorite song and lyrics
 
-Playtime 3 - 2 mins
-
+## Playtime 3 - 2 mins
 Challenge students to: 
 Add a second header level to the song title.
 
@@ -92,9 +92,9 @@ Your webpage should look similar to this:
 
 Now let’s add an image. 
 Some tags, such as image tags don't have closing tags - these would appear like this:
-<img src="images/img.png"/>
+<img src="images/img.png">
 
-Adding list
+## Adding list
 There are different types of list. You have an order and an unordered list. 
 
 Teacher Says: What do you think is the difference between an order list and an unorder list? 
@@ -114,7 +114,7 @@ All list should start with a list tag - Example:
 <li>fish</li>
 
 
-Playtime - 5 mins
+## Playtime - 5 mins
 Add an image of your favorite artist 
 Add an unodered list of the the list you made up of the singer on to your web page. 
 
@@ -122,7 +122,7 @@ Does your webpage look something like this? If so GREAT!
 <img src="images/beyoncehtml.png">
 
 
-INTRO TO CSS
+## INTRO TO CSS
 
 CSS(cascading stylesheet) -  this is the style of your website. It gives your websites some character. You can add different fonts, colors, and more to design your website. 
 
@@ -139,7 +139,7 @@ Direct students to their stylesheet in repl.it. They style sheet should be to th
 
 For this section students will add colors, size and font to their webpage. Explain to students they are desingiing their web page to add style and personality to their website. 
 
-Adding color to your background: 
+## Adding color to your background: 
 
 <img src="images/backgroundcolor.png">
 
@@ -150,7 +150,7 @@ Have students test out this code.
 
 Exemplar Answer: Changes the color of all the text in your body. 
 
-Playtime - 5 mins
+## Playtime - 5 mins
 Add a color to your background
 Add a color to your h1
 Add a color to h2
@@ -162,13 +162,16 @@ Take a look at your finished website!
 <img src="images/beyoncecss.png">
 
 
-Playtime- 20mins
+## Playtime- 20mins
 Challenge students to do any/all of the following:
+
 Add a font size to your pragraph. 
 Add a font family to your h1.
 Add an image of each album cover inside your ordered list.
-Add a link to the rest of the song lyrics
-Takeaways
+Add a link to the rest of the song lyrics,
+
+
+## Takeaways
 HTML -Creating basic html website 
 HTML - Add images to a website
 HMTL - Understanding the difference between an ordered and unordered list
